@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Moscow"
+    },
+    {
+        "name2": "Saint-Peterburg"
+    },
+    {
+        "name": "Valhala"
+    }
+]
